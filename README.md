@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @I-Manmeet
-- 👀 I’m interested in Music
-- 🌱 I’m currently in high school
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 I-Manmeet/I-Manmeet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
